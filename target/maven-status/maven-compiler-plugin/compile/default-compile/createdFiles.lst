@@ -1,0 +1,8 @@
+com\mycompany\moviesoap\controllers\MoviesJpaController.class
+com\mycompany\moviesoap\services\MHandler.class
+com\mycompany\moviesoap\models\Movies.class
+com\mycompany\moviesoap\controllers\exceptions\NonexistentEntityException.class
+com\mycompany\moviesoap\controllers\exceptions\IllegalOrphanException.class
+com\mycompany\moviesoap\services\MovieService.class
+com\mycompany\moviesoap\controllers\exceptions\PreexistingEntityException.class
+com\mycompany\moviesoap\models\Movies_.class
